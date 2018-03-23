@@ -1,0 +1,22 @@
+{
+    "name": "monokai-sublime",
+    "displayName": "monokai-sublime",
+    "description": "monokai sublime",
+    "version": "0.0.1",
+    "publisher": "whale",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "monokai-sublime",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-sublime-color-theme.json"
+            }
+        ]
+    }
+}
